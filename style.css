@@ -1,1 +1,9 @@
+body {
+    background-color: #a1c0ed;
+    text-align: left;
+}
 
+h1 {
+   color: red;
+   font-family: monospace;
+}
